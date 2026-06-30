@@ -119,7 +119,7 @@ export default function Contact() {
       {/* Footer */}
       <div style={{ textAlign: "center", marginTop: "5rem", paddingTop: "2rem", borderTop: "1px solid var(--border)" }}>
         <p style={{ color: "var(--text-secondary)", fontSize: "0.875rem" }}>
-          © {new Date().getFullYear()} Mohanraj R. Built with Next.js & Tailwind CSS.
+          © {new Date().getFullYear()} Mohanraj R.
         </p>
       </div>
     </section>
